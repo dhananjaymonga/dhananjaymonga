@@ -29,4 +29,23 @@
 ![EJS](https://img.shields.io/badge/EJS-%23000000.svg?style=for-the-badge&logo=ejs&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-b
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Dhananjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjaymonga&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaymonga&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhananjaymonga&theme=tokyonight)
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/dhananjay-monga-2619342a4)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhananjaymonga)
+
+---
+✨ *Fueled by passion and innovation!*
