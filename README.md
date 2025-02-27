@@ -10,6 +10,7 @@
 🚀 "Dream big, work hard, and turn visions into reality."
 
 ## 🔥 Skills & Tech Stack
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dhananjaymonga&theme=dracula&no-bg=true&no-frame=true&margin-w=5)
 
 ### 🖥️ Programming Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
